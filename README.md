@@ -9,8 +9,8 @@ The goal of these steps is to run a BigQuery SQL and extract information from a 
 ```console
 gcloud components update 
 cd $HOME
-git clone https://github.com/polanco-jaime/earth-engine-on-bigquery.git
-cd ~/earth-engine-on-bigquery
+git clone https://github.com/polanco-jaime/deploy-prediction-cf-VERTEX.git
+cd ~/deploy-prediction-cf-VERTEX
 chmod +x *.sh
 ```
 
